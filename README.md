@@ -1,16 +1,29 @@
-## Hi there 👋
+# biografia
 
-<!--
-**araujo-np/araujo-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é **nathaly**, mais muitos me chamam de nathy ou araujo, tenho 16 anos, moro na carioca perto ao ipiranga, estudo no sesi 111, sou muito imperativa,atenciosa, gosto de viajar e passar meu tempo livre em familia e amigos, minha profissão do sonhos é ser advogada,tenho 3 animais de estimaçaõ e amo muito eles.
 
-Here are some ideas to get you started:
+# formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou cursando Desenvolvimento de sistema.
+
+# Curso que eu faria
+
+eu faria faculdade de psicologia, mas meu intuito mesmo é ser uma advogada
+
+tenho um afilhado muito fofo de 1 ano, um cachorro que ganhei da minha vó
+![jayck](https://github.com/user-attachments/assets/6f871384-3690-4ef8-aba2-7f6b842afcc2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
