@@ -11,7 +11,8 @@ estou cursando Desenvolvimento de sistema.
 eu faria faculdade de psicologia, mas meu intuito mesmo é ser uma advogada
 
 tenho um afilhado muito fofo de 1 ano, um cachorro que ganhei da minha vó
-![jayck](https://github.com/user-attachments/assets/6f871384-3690-4ef8-aba2-7f6b842afcc2)
+
+![image](https://github.com/user-attachments/assets/87e31cdb-608c-4640-8b48-d2d5ff20da02)
 
 
 
